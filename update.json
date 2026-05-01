@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "url": "https://cdn.jsdelivr.net/gh/virtue192/friends-update@main/update.zip",
-  "notes": "新增视频/文档/位置附件, 农历生日支持, 首页生日提醒, 系统通知推送"
+  "notes": "修复日期时区问题, 确保首页今天联系人正确显示"
 }
