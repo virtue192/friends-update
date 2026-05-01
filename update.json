@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://cdn.jsdelivr.net/gh/virtue192/friends-update@main/update.zip",
-  "notes": "修复主题色/深色模式, 双击宠物对话10秒, 保存间隔自动重算联系日期, 更新按钮灰色状态"
+  "notes": "新增视频/文档/位置附件, 农历生日支持, 首页生日提醒, 系统通知推送"
 }
