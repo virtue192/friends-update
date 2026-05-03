@@ -1,5 +1,5 @@
 {
   "version": "1.7.2",
-  "url": "https://cdn.jsdelivr.net/gh/virtue192/friends-update@v1.7.2/update.zip",
+  "url": "https://testingcf.jsdelivr.net/gh/virtue192/friends-update@v1.7.2/update.zip",
   "notes": "1. 联系人类型（朋友/家人/同事/合伙人）+ 合伙人专属字段\n2. 项目管线看板（线索→评估→签约→验收→流失）\n3. 合伙人智能评级 S/A/B/C\n4. 底部导航精简为4个按钮\n5. 首页子Tab集成互动/数据/设置"
 }
