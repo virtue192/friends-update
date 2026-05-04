@@ -1,5 +1,5 @@
 {
-  "version": "1.7.6",
-  "url": "https://testingcf.jsdelivr.net/gh/virtue192/friends-update@v1.7.2/update.zip",
-  "notes": "1. 联系人类型（朋友/家人/同事/合伙人）+ 合伙人专属字段\n2. 项目管线看板（线索→评估→签约→验收→流失）\n3. 合伙人智能评级 S/A/B/C\n4. 底部导航精简为4个按钮\n5. 首页子Tab集成互动/数据/设置"
+  "version": "1.8.1",
+  "url": "https://testingcf.jsdelivr.net/gh/virtue192/friends-update@v1.8.1/update.zip",
+  "notes": "1. 备份管理中心：查看、恢复、分享自动备份\n2. 每天自动备份，最多保留30份\n3. 修复JSON导入无反应问题\n4. 修复数据库迁移降级到空web模式\n5. 首页待联系人显示昵称/电话/微信"
 }
