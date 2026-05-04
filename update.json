@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
-  "url": "https://testingcf.jsdelivr.net/gh/virtue192/friends-update@v1.8.1/update.zip",
-  "notes": "1. 备份管理中心：查看、恢复、分享自动备份\n2. 每天自动备份，最多保留30份\n3. 修复JSON导入无反应问题\n4. 修复数据库迁移降级到空web模式\n5. 首页待联系人显示昵称/电话/微信"
+  "version": "1.8.2",
+  "url": "https://testingcf.jsdelivr.net/gh/virtue192/friends-update@v1.8.2/update.zip",
+  "notes": "1. 修复自动备份文件乱码（添加 UTF8 编码）\n2. 备份管理中心：查看/恢复/分享/删除备份\n3. 修复JSON导入无反应\n4. 修复数据库迁移降级问题"
 }
